@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Pierwsze Oscary przyznane w roku 1929"
+permalink: /1929/
+image: http://www.telegraph.co.uk/content/dam/films/2016/05/16/Oscars1929_3195491b-large_trans++pJliwavx4coWFCaEkEsb3kvxIt-lGGWCWqwLa_RXJU8.jpg
+table: ['Raz','dwa','trzy']
+---
+
+# {{ site.title }}
+
+{% for item in page.table %}
+  {{ item }}
+{% endfor %}
+
+![obrazek]({{page.image}})

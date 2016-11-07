@@ -1,0 +1,10 @@
+[
+  {
+    "klucz": "wartość",
+    "klucz2": ["1", "2", "trzy"]
+  },
+  {
+    "klucz": "wartość",
+    "klucz2": ["1", "2", "trzy"]
+  }
+]
